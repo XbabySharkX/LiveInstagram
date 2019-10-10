@@ -1,5 +1,7 @@
 # LiveInstagram
 
+DIUTAMAKAN BACA SAMPE HABIS :)
+
 Langsung aja pake bisa menggunakan termux dan juga bisa menggunakan gitbash
 
 BAHAN-BAHAN
@@ -56,3 +58,7 @@ NAH KALO MAU PAKE GITBASH
 download dlu gitbashnya di https://git-scm.com/downloads
 
 ya cara" masih sama hanya beda gitbash dipake langsung leptop/pc
+
+KALO NGK BISA BERARTI ANDA KURANG TAMVAN :P
+
+JIKA ADA SESUATU DI IG KALI BUKAN TANGGU JAWAB W KARENA LU MAKE SENDIRI 
